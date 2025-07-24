@@ -26,3 +26,6 @@ dist-ssr
 /.vs/VituraHealth.Ui/FileContentIndex/70c9fa29-6a63-46cb-aec8-f9c10bd91329.vsidx
 /.vs/slnx.sqlite-journal
 /package-lock.json
+/.vs/VituraHealth.Ui/FileContentIndex
+/.vs/VituraHealth.Ui/v17
+/.vs/VSWorkspaceState.json
